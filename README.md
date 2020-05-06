@@ -10,7 +10,7 @@ Python 3.x
 
 pygame
 
-<h2 style="background-color:#ffcc00;">SceernShots</button>
+<h2 style="background-color:#ffcc00;">ScreenShots</button>
 </h2>
 
 ![](ScreenShots.pdf)
