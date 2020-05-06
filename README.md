@@ -10,7 +10,6 @@ Python 3.x
 
 pygame
 
-<h2 style="background-color:#ffcc00;">ScreenShots</button>
-</h2>
+# The Above code look like this:
 https://github.com/18harsh/Space-Invaders-Game/blob/master/Screenshots.pdf
-![](ScreenShots.pdf)
+
